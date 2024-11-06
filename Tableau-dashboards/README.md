@@ -2,7 +2,7 @@
 
 This Tableau dashboard provides a comprehensive overview of sales performance for a company selling various products across the United States. It offers insights into key metrics such as total sales, sales by product category, regional performance, and sales trends over time, enabling stakeholders to make data-driven decisions.
 
-![Sales Performance Dashboard](IMAGE_FILE_NAME.png)
+![Sales Performance Dashboard](Dashboard 2.png)
 
 ## Project Overview
 
