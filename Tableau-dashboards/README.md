@@ -23,7 +23,7 @@ The **Sales Performance Dashboard** was designed to help the company understand 
 ## Project Details
 
 - **Tool**: Tableau
-- **Dataset**: Company sales data from different U.S. regions (sample data for project demonstration)
+- **Dataset**: Company sales data from different U.S. regions found in [Kaggle](https://www.kaggle.com/datasets/ahmedali209/sales-dataset)
 - **Skills Demonstrated**: Data visualization, trend analysis, filtering techniques, and Tableau dashboard design
 
 ## Dashboard Link
