@@ -8,6 +8,7 @@ Welcome to my data analysis portfolio! This repository showcases a selection of 
    Contains Python-based exploratory data analysis (EDA) projects. Each project uses Jupyter notebooks to analyze datasets, visualize trends, and derive insights.
 
    - **Employee_survey_analysis**: Analyzes employee survey data to uncover trends in job satisfaction, work-life balance, and mental health conditions, along with factors influencing productivity.
+   - **Linkedin_jobs_analysis**: Analyzes 1.3M jobs posted in Linkedin, looking for trends in jobs, skills required, seniority levels and locations.
    - **Remote_work_analysis**: Explores the impact of remote work on productivity, stress levels, and overall employee satisfaction, considering factors like work environment and company support.
 
 2. **Tableau dashboards**  
@@ -25,7 +26,7 @@ Welcome to my data analysis portfolio! This repository showcases a selection of 
 
 - **Python**: Data analysis, statistical analysis, and data visualization.
 - **Tableau**: Interactive dashboards and business intelligence visualizations.
-- 
+
 ## About Me
 
 I’m a data analyst with a strong background in cognitive science and several years of experience in data-driven roles. My portfolio reflects my skills in data analysis, visualization, and machine learning. I’m passionate about uncovering insights and translating data into actionable information.
