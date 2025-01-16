@@ -4,7 +4,7 @@
 This project aims to analyze data related to job postings on LinkedIn, providing insights into job trends, required skills, and other key factors that job seekers and professionals might find useful.
 
 ## Dataset Description
-- **Source**: (https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)[1.3M Linkedin Jobs & Skills (2024)]
+- **Source**: [1.3M Linkedin Jobs & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
 - **Structure**: Briefly describe the dataset structure, including key columns such as job title, company, location, skills, and any other relevant attributes.
 - **Purpose**: Explain why this dataset was chosen and how it supports the analysis objectives.
 
