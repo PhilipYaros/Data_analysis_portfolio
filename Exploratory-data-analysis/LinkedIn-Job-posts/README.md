@@ -4,7 +4,7 @@
 This project aims to analyze data related to job postings on LinkedIn, providing insights into job trends, required skills, and other key factors that job seekers and professionals might find useful.
 
 ## Dataset Description
-- **Source**: Provide the source of the dataset (e.g., LinkedIn, Kaggle, or other platforms).
+- **Source**: (https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)[1.3M Linkedin Jobs & Skills (2024)]
 - **Structure**: Briefly describe the dataset structure, including key columns such as job title, company, location, skills, and any other relevant attributes.
 - **Purpose**: Explain why this dataset was chosen and how it supports the analysis objectives.
 
@@ -23,11 +23,11 @@ This project aims to analyze data related to job postings on LinkedIn, providing
 - Summarize the main findings from the analysis, such as:
   - Top industries or locations for job opportunities.
   - Skills in high demand.
-  - Changes in job trends over time (if applicable).
+  - Changes in job trends over time 
 
 ## Tools and Technologies
 - **Programming Language**: Python
-- **Libraries**: pandas, numpy, matplotlib, seaborn (add others as needed)
+- **Libraries**: pandas, numpy, matplotlib, seaborn 
 - **Environment**: Jupyter Notebook
 
 ## How to Run
