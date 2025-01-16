@@ -5,16 +5,19 @@ This project aims to analyze data related to job postings on LinkedIn, providing
 
 ## Dataset Description
 - **Source**: [1.3M Linkedin Jobs & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
-- **Structure**: Briefly describe the dataset structure, including key columns such as job title, company, location, skills, and any other relevant attributes.
-- **Purpose**: Explain why this dataset was chosen and how it supports the analysis objectives.
+- **Structure**: 2 tables used:
+  linkedin_job_postings.csv - including the columns as job_id, location, level, job_title etc.
+  job_skills.csv - including a column that describes all the required skills for each job posted. 
+- **Purpose**: I wanted to examine the skills required for different roles and levels, and to see if there are trends for different locations. 
 
 ## Analysis Process
 1. **Data Cleaning**:
    - Handling missing values.
    - Standardizing column names and data formats.
 2. **Exploratory Data Analysis (EDA)**:
-   - Visualizing trends in job postings (e.g., by location, industry, or company).
+   - Visualizing trends in job postings (e.g., by skills, location, or level).
    - Analyzing the most in-demand skills and roles.
+   - Analyze differences bettwen countries (USA, UK, Austraila etc.)
 3. **Insights and Patterns**:
    - Extracting key trends and observations from the data.
    - Identifying actionable insights for job seekers or recruiters.
@@ -22,7 +25,9 @@ This project aims to analyze data related to job postings on LinkedIn, providing
 ## Results and Insights
 - Summarize the main findings from the analysis, such as:
   - Top industries or locations for job opportunities.
-  - Skills in high demand.
+  - some skills that required for all roles like communication and teamwork.
+    We can also see that the senior and lead roles ask for different skills that junior roles don't, such as project managment for seniors, or supervisory 
+ experience for lead roles. The skill of leadership is very important for senior roles in comparison to junior.
   - Changes in job trends over time 
 
 ## Tools and Technologies
